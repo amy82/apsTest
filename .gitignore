@@ -1,0 +1,13 @@
+bin/
+obj/
+x64/
+.vs/
+.vscode/
+
+*.exe
+*.dll
+*.pch
+*.vc
+*.db
+*VC.db
+*.opendb
